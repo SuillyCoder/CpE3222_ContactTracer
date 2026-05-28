@@ -1,0 +1,10 @@
+Ig pull nimo Koy, mao ning bhuhaton nimo:
+
+1. Visit localhost/phpMyAdmin.net
+2. Click on 'New' under the databases u have
+3. Select the SQL Tab
+4. Copy paste database_setup.sql
+5. Paste into SQL Tab
+6. CLick 'Go' to create database_setup
+7. visit localhost/CpE3222_ContactTracer/index.phpMyAdmin
+
