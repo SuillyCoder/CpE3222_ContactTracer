@@ -15,7 +15,8 @@ if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'admin') {
 </head>
 <body>
     <form action="logout.php" method="POST">
-        <!-- Optional: input fields go here -->
+        
+        
         <button type="submit" name="submit_button">LOGOUT</button>
     </form>
 </body>
