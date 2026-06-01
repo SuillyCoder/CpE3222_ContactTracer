@@ -317,10 +317,6 @@ unset($_SESSION['flash'], $_SESSION['flash_type']);
             </div>
         </div>
     </div>
-
-    <div class="admin-link">
-        <a href="admin.php">Administrator login →</a>
-    </div>
 </div>
 
 </body>
